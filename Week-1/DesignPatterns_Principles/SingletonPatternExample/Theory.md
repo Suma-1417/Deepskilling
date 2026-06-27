@@ -2,7 +2,9 @@
 
 ## Sample Output:
 LOG: First log entry
+
 LOG: Second log entry
+
 Only one Logger instance exists.
 
 ## Concept
