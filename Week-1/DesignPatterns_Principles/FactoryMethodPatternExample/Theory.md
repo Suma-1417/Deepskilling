@@ -2,7 +2,9 @@
 
 ## Sample Output
 Opening Word Document
+
 Opening PDF Document
+
 Opening Excel Document
 ## Concept
 The Factory Method Pattern defines an interface for creating objects but lets subclasses decide which class to instantiate.  
